@@ -1,3 +1,3 @@
 # git_lab2
 # git is a intresting subject
-# my name is srnsh
+# my name is yaduvanshi
